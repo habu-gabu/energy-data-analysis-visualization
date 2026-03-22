@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 
-# hellow
 st.set_page_config(layout="wide", page_title="Global Energy Metrics")
 
 
